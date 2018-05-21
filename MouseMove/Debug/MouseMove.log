@@ -1,7 +1,0 @@
-﻿  Stdafx.cpp
-  AssemblyInfo.cpp
-  MouseMove.cpp
-  Generating Code...
-  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
-  MouseMove.vcxproj -> d:\users\refused49\documents\visual studio 2015\Projects\MouseMove\Debug\MouseMove.dll
-  MouseMove.vcxproj -> d:\users\refused49\documents\visual studio 2015\Projects\MouseMove\Debug\MouseMove.pdb (Partial PDB)
